@@ -7,3 +7,6 @@ See [O'Reilly's website](https://get.oreilly.com/ind_mastering-python-for-bioinf
 # Author
 
 Ken Youens-Clark <kyclark@gmail.com>
+
+# Activate the Virtual Environment
+`source biofx_env/Scripts/activate`
